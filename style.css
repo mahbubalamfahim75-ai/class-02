@@ -1,0 +1,25 @@
+
+* { margin: 0;
+    padding: 0;
+    
+
+}
+h3 {
+    color: rgb(172, 50, 54);
+}
+h1 {
+    color: rgb(255, 0, 212);
+}
+
+.Jupiter {
+    color: orange;
+}
+#Saturn {
+    color: green;
+}
+.stn {
+    
+    width: 400px;
+    height: 400px;
+    background-color: hwb(284 3% 5% / 0.368);
+}
